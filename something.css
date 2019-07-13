@@ -10,7 +10,7 @@
 }
 .column {
     float: left;
-    width: 12.5w%;
+    width: 12.5w;
     padding: 5px;
 }
 .button{
@@ -42,4 +42,16 @@ body {
 }
 p {
     font-family: sans-serif;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.css {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
 }
